@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B2Broker.TechnicalTask.Anagram", "B2Broker.TechnicalTask.Anagram\B2Broker.TechnicalTask.Anagram.csproj", "{77F5AAFC-80F0-49B5-8782-27DB7F77EE0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B2Broker.TechnicalTask.Tests", "B2Broker.TechnicalTask.Tests\B2Broker.TechnicalTask.Tests.csproj", "{A8EE7B75-D933-45DF-8116-8D861BDB3CCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B2Broker.TechnicalTask.Numbers", "B2Broker.TechnicalTask.FactorialChecker\B2Broker.TechnicalTask.Numbers.csproj", "{ADCA78F0-C464-483B-A163-A62CF4424203}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B2Broker.TechnicalTask.ConsoleApp", "B2Broker.TechnicalTask.Console\B2Broker.TechnicalTask.ConsoleApp.csproj", "{827EC9BF-3276-4ED6-BA87-31653C5AC44B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B2Broker.TechnicalTask.Abstraction", "B2Broker.TechnicalTask.Abstraction\B2Broker.TechnicalTask.Abstraction.csproj", "{21BAE8D4-0A02-412B-AA20-1B01052BBD9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B2Broker.TechnicalTask.FileHandler", "B2Broker.TechnicalTask.FileHandler\B2Broker.TechnicalTask.FileHandler.csproj", "{D331B8D1-0697-413C-95D3-7E28F7C07ED5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77F5AAFC-80F0-49B5-8782-27DB7F77EE0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F5AAFC-80F0-49B5-8782-27DB7F77EE0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F5AAFC-80F0-49B5-8782-27DB7F77EE0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F5AAFC-80F0-49B5-8782-27DB7F77EE0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8EE7B75-D933-45DF-8116-8D861BDB3CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8EE7B75-D933-45DF-8116-8D861BDB3CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8EE7B75-D933-45DF-8116-8D861BDB3CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8EE7B75-D933-45DF-8116-8D861BDB3CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADCA78F0-C464-483B-A163-A62CF4424203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADCA78F0-C464-483B-A163-A62CF4424203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADCA78F0-C464-483B-A163-A62CF4424203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADCA78F0-C464-483B-A163-A62CF4424203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{827EC9BF-3276-4ED6-BA87-31653C5AC44B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{827EC9BF-3276-4ED6-BA87-31653C5AC44B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{827EC9BF-3276-4ED6-BA87-31653C5AC44B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{827EC9BF-3276-4ED6-BA87-31653C5AC44B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21BAE8D4-0A02-412B-AA20-1B01052BBD9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21BAE8D4-0A02-412B-AA20-1B01052BBD9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21BAE8D4-0A02-412B-AA20-1B01052BBD9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21BAE8D4-0A02-412B-AA20-1B01052BBD9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D331B8D1-0697-413C-95D3-7E28F7C07ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D331B8D1-0697-413C-95D3-7E28F7C07ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D331B8D1-0697-413C-95D3-7E28F7C07ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D331B8D1-0697-413C-95D3-7E28F7C07ED5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83A2F8C2-AB04-4273-86E4-227E6DD0A2B5}
+	EndGlobalSection
+EndGlobal
